@@ -4,6 +4,10 @@
     {
       "label": "Сайты",
       "data": "https://asylbek92.github.io/msx/links.json"
+    },
+    {
+      "label": "TV Kaz",
+      "data": "https://msx.benzac.de/services/m3u.php?headline=TV%20Kaz&type=video&url=https%3A%2F%2Fiptv.org.ua%2Fiptv%2Fkzbtv.m3u"
     }
   ]
 }
