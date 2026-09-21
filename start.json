@@ -1,5 +1,6 @@
 {
   "name": "Мои ссылки",
   "version": "1.0.0",
-  "parameter": "menu:https://asylbek92.github.io/msx/menu.json"
+  "parameter": "menu:https://asylbek92.github.io/msx/menu.json",
+  "action": "[settings:validate_links:0|home]"
 }
