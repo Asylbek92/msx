@@ -1,0 +1,13 @@
+{
+  "headline": "Мои ссылки",
+  "menu": [
+    {
+      "label": "LORD67",
+      "action": "link:https://lord67.top"
+    },
+    {
+      "label": "Сайт 2",
+      "action": "link:https://m.zona.ms"
+    }
+  ]
+}
