@@ -13,14 +13,6 @@
     {
       "title": "Zona",
       "action": "link:https://msx.zona.ms"
-    },
-    {
-      "title": "Фильмы TMDb",
-      "action": "link:https://tmdb.msx.benzac.de"
-    },
-    {
-      "title": "Rocket Beans TV",
-      "action": "link:https://rbtv.msx.benzac.de"
     }
   ]
 }
