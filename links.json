@@ -17,10 +17,10 @@
     {
       "title": "TV Kaz (смотреть)",
       "action": "playlist:https://msx.benzac.de/services/m3u.php?type=video&url=https://iptv.org.ua/iptv/kzbtv.m3u"
-    }
-  ]
-}
+    },
     {
       "title": "Тест канала",
       "action": "video:https://ucdn.beetv.kz/bpk-tv/000003748/tve/index.m3u8"
     }
+  ]
+}
