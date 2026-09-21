@@ -8,6 +8,10 @@
     {
       "label": "TV Kaz",
       "data": "https://msx.benzac.de/services/m3u.php?headline=TV%20Kaz&type=video&url=https%3A%2F%2Fiptv.org.ua%2Fiptv%2Fkzbtv.m3u"
+    },
+    {
+      "label": "ТВ РФ и КЗ",
+      "data": "https://msx.benzac.de/services/m3u.php?headline=TV&type=video&url=https%3A%2F%2Fasylbek92.github.io%2Fmsx%2Ftv_ru_kz.m3u"
     }
   ]
 }
