@@ -11,7 +11,7 @@
     },
     {
       "label": "ТВ РФ и КЗ",
-      "data": "https://msx.benzac.de/services/m3u.php?headline=TV&type=video&url=https%3A%2F%2Fasylbek92.github.io%2Fmsx%2Ftv_ru_kz.m3u"
+      "data": "https://msx.benzac.de/services/m3u.php?type=video&headline=TV&url=https://asylbek92.github.io/msx/tv.m3u"
     }
   ]
 }
