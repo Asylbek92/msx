@@ -16,7 +16,7 @@
     },
     {
       "title": "TV Kaz (смотреть)",
-      "action": "playlist:https://msx.benzac.de/services/m3u.php?type=video&url=https://iptv.org.ua/iptv/kzbtv.m3u"
+     "action": "playlist:https://msx.benzac.de/services/m3u.php?type=video&url=https://asylbek92.github.io/msx/channels.m3u"
     },
     {
       "title": "Тест канала",
