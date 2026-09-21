@@ -20,3 +20,7 @@
     }
   ]
 }
+    {
+      "title": "Тест канала",
+      "action": "video:https://ucdn.beetv.kz/bpk-tv/000003748/tve/index.m3u8"
+    }
