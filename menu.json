@@ -7,7 +7,7 @@
     },
     {
       "label": "Zona",
-      "action": "link:https://msx.zona.ms"
+      "data": "https://m.zona.ms/msx/start.json"
     }
   ]
 }
