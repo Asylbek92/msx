@@ -4,17 +4,17 @@
     {
       "title": "LORD67",
       "action": "link",
-      "data": "https://lord67.top"
+      "data": "menu:https://lord67.top"
     },
     {
       "title": "Сайт 2",
       "action": "link",
-      "data": "https://m.zona.ms"
+      "data": "menu:https://m.zona.ms"
     },
     {
       "title": "TV Kaz",
       "action": "link",
-      "data": "https://iptv.org.ua/iptv/kzbtv.m3u"
+      "data": "menu:https://iptv.org.ua/iptv/kzbtv.m3u"
     }
   ]
 }
