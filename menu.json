@@ -2,12 +2,8 @@
   "headline": "Мои ссылки",
   "menu": [
     {
-      "label": "LORD67",
-      "action": "link:https://lord67.top"
-    },
-    {
-      "label": "Сайт 2",
-      "action": "link:https://m.zona.ms"
+      "label": "Сайты",
+      "data": "https://asylbek92.github.io/msx/links.json"
     }
   ]
 }
