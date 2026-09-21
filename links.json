@@ -15,20 +15,12 @@
       "action": "link:https://msx.zona.ms"
     },
     {
-      "title": "TV Kaz (смотреть)",
-      "action": "playlist:https://msx.benzac.de/services/m3u.php?type=video&url=https://asylbek92.github.io/msx/channels.m3u"
+      "title": "Фильмы TMDb",
+      "action": "link:https://tmdb.msx.benzac.de"
     },
     {
-      "title": "Тест канала",
-      "action": "video:https://ucdn.beetv.kz/bpk-tv/000003748/tve/index.m3u8"
-    },
-    {
-      "title": "Тест публичный поток",
-      "action": "video:https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
-    },
-    {
-      "title": "Тест Рен ТВ",
-      "action": "video:https://ucdn.beetv.kz/bpk-tv/000002472/tve/index.m3u8"
+      "title": "Rocket Beans TV",
+      "action": "link:https://rbtv.msx.benzac.de"
     }
   ]
 }
