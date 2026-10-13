@@ -5,9 +5,9 @@
       "label": "Фильмы",
       "data": "https://asylbek92.github.io/msx/links.json"
     },
-    {
+{
       "label": "TV Kaz",
-      "data": "https://msx.benzac.de/services/m3u.php?headline=TV%20Kaz&type=video&url=https%3A%2F%2Fiptv.org.ua%2Fiptv%2Fkzbtv.m3u"
+      "data": "https://msx.benzac.de/services/m3u.php?type=video&headline=TV%20Kaz&url=https://asylbek92.github.io/msx/kaz_tv.m3u"
     },
         {
       "label": "ТВ РФ и КЗ",
