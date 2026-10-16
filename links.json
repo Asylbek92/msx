@@ -20,7 +20,7 @@
     },
     {
       "title": "Lift3",
-      "action": "start:https://lift3.ws/msx/"
+      "action": "portal:sstart=https://lift3.ws/msx/"
     },
     {
       "title": "Lift3 (сайт)",
