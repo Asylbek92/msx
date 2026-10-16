@@ -21,10 +21,6 @@
     {
       "title": "Lift3",
       "action": "menu:request:interaction:menu@https://lift3.ws/msx/"
-    },
-    {
-      "title": "Lift3 (сайт)",
-      "action": "link:https://lift3.ws"
     }
   ]
 }
