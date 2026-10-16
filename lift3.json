@@ -1,10 +1,4 @@
 {
-  "type": "list",
-  "headline": "Lift3",
-  "items": [
-    {
-      "title": "Открыть Lift3",
-      "action": "link:https://lift3.ws/msx/"
+      "title": "Lift3",
+      "action": "menu:lift3.json"
     }
-  ]
-}
