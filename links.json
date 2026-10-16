@@ -19,8 +19,8 @@
       "action": "link:http://lampa.mx"
     },
     {
-      "title": "Lift3",
-      "action": "menu:request:interaction:menu@https://lift3.ws/msx/"
+      "title": "Lift3 (открыть)",
+      "action": "config:https://lift3.ws/msx/start.json"
     }
   ]
 }
