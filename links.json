@@ -17,14 +17,6 @@
     {
       "title": "Lampa",
       "action": "link:http://lampa.mx"
-    },
-    {
-      "title": "Lift3",
-      "action": "menu:https://raw.githubusercontent.com/Asylbek92/msx/main/lift3.json"
-    },
-    {
-      "title": "Lift3 (сайт)",
-      "action": "link:https://lift3.ws"
     }
   ]
 }
