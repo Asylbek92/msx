@@ -1,4 +1,11 @@
-"items": [
+{
+  "type": "list",
+  "headline": "Сайты",
+  "template": {
+    "type": "control",
+    "layout": "0,0,6,1"
+  },
+  "items": [
     {
       "title": "LORD67",
       "action": "link:https://lord67.top"
@@ -20,3 +27,4 @@
       "action": "link:https://lift3.ws"
     }
   ]
+}
