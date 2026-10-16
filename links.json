@@ -1,3 +1,4 @@
+
 {
   "type": "list",
   "headline": "Сайты",
@@ -20,7 +21,7 @@
     },
     {
       "title": "Lift3",
-      "action": "menu:request:interaction:menu@https://lift3.ws/msx/"
+      "action": "menu:https://lift3.ws/msx/"
     },
     {
       "title": "Lift3 (сайт)",
