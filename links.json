@@ -1,11 +1,4 @@
-{
-  "type": "list",
-  "headline": "Сайты",
-  "template": {
-    "type": "control",
-    "layout": "0,0,6,1"
-  },
-  "items": [
+"items": [
     {
       "title": "LORD67",
       "action": "link:https://lord67.top"
@@ -20,11 +13,10 @@
     },
     {
       "title": "Lift3",
-      "action": "menu:https://raw.githubusercontent.com/Asylbek92/msx/main/lift3.json"
+      "action": "menu:lift3.json"
     },
     {
       "title": "Lift3 (сайт)",
       "action": "link:https://lift3.ws"
     }
   ]
-}
